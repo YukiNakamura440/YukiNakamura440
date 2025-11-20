@@ -1,15 +1,77 @@
-<h1 align="center">Rust Developer</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ferris;Rust+Developer+%7C+Blockchain+%7C+AI" alt="Typing SVG" />
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a **Rust Developer** passionate about building efficient, secure, and innovative solutions. My focus areas include **Blockchain Technology** and **Artificial Intelligence**, where I explore the intersection of systems programming and cutting-edge technologies.
+
+> *"Make invalid states unrepresentable"* - A principle I live by in software engineering.
+
+---
+
+## 💻 Tech Stack
+
+### Languages & Frameworks
+- **Rust** - Primary language for systems & blockchain development
+- **Python** - AI/ML and data analysis
+- **JavaScript/TypeScript** - Web development & tooling
+
+### Specializations
+- 🔗 **Blockchain**: Smart Contracts, Protocol Development, Cryptography
+- 🤖 **AI/ML**: Machine Learning, Neural Networks, Data Analysis
+- ⚙️ **Systems**: High-performance computing, Concurrency, Memory safety
+
+### Tools & Platforms
+- Docker, Git, GitHub Actions
+- Ethereum, Solana, Web3 ecosystems
+- TensorFlow, PyTorch
+
+---
+
+## 📊 GitHub Statistics
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z3roai/z3roai/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/z3roai/z3roai/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/z3roai/z3roai/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/z3roai/z3roai/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
-###
-<h2 align="center">Profile View</h1>
 <div align="center">
-  <img src="https://count.getloli.com/@:z3roai?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:z3roai?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
 </div>
 
-###
+---
+
+## 🎯 Currently Working On
+
+- Blockchain protocol implementations in Rust
+- AI-powered analytics and data processing
+- Open-source contributions to the Rust ecosystem
+
+---
+
+## 📚 Featured Projects
+
+Check out my repositories for:
+- Blockchain frameworks and smart contracts
+- AI/ML experiments and implementations
+- Rust utility libraries and tools
+- Educational resources on systems programming
+
+---
+
+## 🤝 Connect With Me
+
+- 📍 [Blog](https://ferris-digital.vercel.app/)
+- 💼 [GitHub](https://github.com/z3roai)
+
+---
+
+<div align="center">
+  <p>
+    <strong>Let's build something amazing together! 🚀</strong>
+  </p>
+</div>
