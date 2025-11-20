@@ -1,29 +1,5 @@
 <h1 align="center">Rust Developer</h1>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=actix" height="60" alt="actix logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tauri" height="60" alt="tauri logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="60" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="60" alt="graphql logo"  />
-</div>
-
-###
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z3roai/z3roai/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/z3roai/z3roai/output/pacman-contribution-graph.svg">
