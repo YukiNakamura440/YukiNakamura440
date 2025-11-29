@@ -12,7 +12,9 @@ I'm a **Rust Developer** passionate about building efficient, secure, and innova
 
 ---
 
-## 💻 Tech Stack
+
+
+##    💻 Tech Stack
 
 ### Languages & Frameworks
 - **Rust** - Primary language for systems & blockchain development
