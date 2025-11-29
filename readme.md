@@ -64,9 +64,7 @@ Check out my repositories for:
 ---
 
 ## 🤝 Connect With Me
-
-- 📍 [Blog](https://ferris-digital.vercel.app/)
-- 💼 [GitHub](https://github.com/z3roai)
+- 💼 [GitHub](https://github.com/YukiNakamura440)
 
 ---
 
