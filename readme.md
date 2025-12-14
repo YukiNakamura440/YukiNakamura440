@@ -31,19 +31,6 @@ I'm a **Rust Developer** passionate about building efficient, secure, and innova
 - Ethereum, Solana, Web3 ecosystems
 - TensorFlow, PyTorch
 
----
-
-## 📊 GitHub Statistics
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z3roai/z3roai/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/z3roai/z3roai/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/z3roai/z3roai/output/pacman-contribution-graph.svg" width="100%">
-</picture>
-
-<div align="center">
-  <img src="https://count.getloli.com/@:z3roai?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
-</div>
 
 ---
 
