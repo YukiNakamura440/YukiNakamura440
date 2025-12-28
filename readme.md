@@ -1,68 +1,110 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Yuki;full+stack+%7C+Blockchain+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Yuki;Senior+Full-Stack+%7C+AI+Developer" />
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 About
 
-I'm a **Rust Developer** passionate about building efficient, secure, and innovative solutions. My focus areas include **Blockchain Technology** and **Artificial Intelligence**, where I explore the intersection of systems programming and cutting-edge technologies.
+Senior **Full-Stack & AI Developer** building **production-grade web applications and AI systems**.
 
-> *"Make invalid states unrepresentable"* - A principle I live by in software engineering.
-
----
-
-
-
-##    💻 Tech Stack
-
-### Languages & Frameworks
-- **Rust** - Primary language for systems & blockchain development
-- **Python** - AI/ML and data analysis
-- **JavaScript/TypeScript** - Web development & tooling
-
-### Specializations
-- 🔗 **Blockchain**: Smart Contracts, Protocol Development, Cryptography
-- 🤖 **AI/ML**: Machine Learning, Neural Networks, Data Analysis
-- ⚙️ **Systems**: High-performance computing, Concurrency, Memory safety
-
-### Tools & Platforms
-- Docker, Git, GitHub Actions
-- Ethereum, Solana, Web3 ecosystems
-- TensorFlow, PyTorch
-
+I work end-to-end — architecture, implementation, deployment — with a strong focus on **clarity, maintainability, and business value**.
 
 ---
 
-##  🎯 Currently Working On
+## 🧩 Core Skills (At a Glance)
 
-- Blockchain protocol implementations in Rust
-- AI-powered analytics and data processing
-- Open-source contributions to the Rust ecosystem
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🌐 Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Responsive & accessible UI
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠 Backend
+- Node.js
+- REST APIs
+- Auth & permissions
+- Background jobs
+- System design
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 AI
+- LLM integration (OpenAI, APIs)
+- AI assistants & tools
+- Image / content generation
+- Automation workflows
+- Data processing
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Featured Projects
+## ⚙️ Engineering & DevOps
 
-Check out my repositories for:
-- Blockchain frameworks and smart contracts
-- AI/ML experiments and implementations
-- Rust utility libraries and tools
-- Educational resources on systems programming
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Practices
+- Clean architecture
+- Scalable system design
+- Code reviews
+- Performance optimization
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Tools
+- Docker
+- Git & GitHub Actions
+- CI/CD
+- Cloud deployment
+- Monitoring & logging
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Connect With Me
-- 💼 [GitHub](https://github.com/YukiNakamura440)
+## 🎯 What I’m Working On
+
+- AI-powered content generation systems  
+- Full-stack SaaS MVPs  
+- Automation tools for creators & teams  
+- Client demos and proof-of-concepts  
 
 ---
 
-<div align="center">
-  <p>
-    <strong>Let's build something amazing together! 🚀</strong>
-  </p>
-</div>
+## 📂 Projects
 
+My repositories include:
+- End-to-end full-stack applications
+- Practical AI integrations
+- Automation pipelines
+- Reference architectures
 
+I prioritize **readable code and long-term maintainability** over shortcuts.
 
+---
 
+## 🤝 Working With Me
+
+I’m a good fit if you need someone who can:
+- Own features or systems end-to-end
+- Communicate clearly with non-technical stakeholders
+- Deliver reliably without micromanagement
+
+📩 Feel free to explore my repositories or reach out.
