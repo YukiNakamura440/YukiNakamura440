@@ -1,110 +1,34 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Yuki;Senior+Full-Stack+%7C+AI+Developer" />
-</div>
+# 👋 Hi, I'm Yuki
+
+🎮 **Full-Stack Engineer** building interactive Roblox experiences solo using TypeScript (Roblox-TS).
+
+I focus on creating **fun, responsive gameplay mechanics** and **modular systems** that make games feel great to play.
 
 ---
 
-## 👋 About
-
-Senior **Full-Stack & AI Developer** building **production-grade web applications and AI systems**.
-
-I work end-to-end — architecture, implementation, deployment — with a strong focus on **clarity, maintainability, and business value**.
-
----
-
-## 🧩 Core Skills (At a Glance)
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🌐 Frontend
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Responsive & accessible UI
-
-</td>
-<td width="33%" valign="top">
-
-### 🛠 Backend
-- Node.js
-- REST APIs
-- Auth & permissions
-- Background jobs
-- System design
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 AI
-- LLM integration (OpenAI, APIs)
-- AI assistants & tools
-- Image / content generation
-- Automation workflows
-- Data processing
-
-</td>
-</tr>
-</table>
+### 🔧 Tech Stack
+1. Roblox TypeScript
+2. Luau
+3. Charm, + other atomic management libraries
+4. React
+5. Vue
+6. Flamework
 
 ---
 
-## ⚙️ Engineering & DevOps
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 Practices
-- Clean architecture
-- Scalable system design
-- Code reviews
-- Performance optimization
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Tools
-- Docker
-- Git & GitHub Actions
-- CI/CD
-- Cloud deployment
-- Monitoring & logging
-
-</td>
-</tr>
-</table>
-
+### 🧩 Projects
+- [EYE OBBY](https://www.roblox.com/games/110054115114958/EYE-OBBY) — An interesting obby with special twist... Some parts are hidden until you close your EYE! 👁️
+- [RblxDataStore](https://github.com/FLOGRE-Studio/rblxdatastore) — Strictly-typed datastore wrapper for Roblox games.
+- [RblxECS](https://github.com/FLOGRE-Studio/rblx-ecs) — A compact, high performance Entity Component System implementation for Roblox-TS projects.
+- (Coming soon) **Push Legends** — Satisfying Incremental Simulator about performing push up for power, power = strength hence you build your strength toward lifting the heaviest objects.
 ---
 
-## 🎯 What I’m Working On
+### 🧠 Interests
+Designing fun gameplay for players • Solving interesting software engineering problems • Experimenting with creating mini games.
 
-- AI-powered content generation systems  
-- Full-stack SaaS MVPs  
-- Automation tools for creators & teams  
-- Client demos and proof-of-concepts  
+📫 **Contact:** kstep854@gmail.com
 
----
 
-## 📂 Projects
+Enjoy this little GIF 💖
 
-My repositories include:
-- End-to-end full-stack applications
-- Practical AI integrations
-- Automation pipelines
-- Reference architectures
-
-I prioritize **readable code and long-term maintainability** over shortcuts.
-
----
-
-## 🤝 Working With Me
-
-I’m a good fit if you need someone who can:
-- Own features or systems end-to-end
-- Communicate clearly with non-technical stakeholders
-- Deliver reliably without micromanagement
-
-📩 Feel free to explore my repositories or reach out.
+![20251106-1453-54 0026021](https://github.com/user-attachments/assets/714652f0-ce34-40e3-93d9-2cd52d0310e8)
