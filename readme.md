@@ -26,7 +26,7 @@ I focus on creating **fun, responsive gameplay mechanics** and **modular systems
 ### 🧠 Interests
 Designing fun gameplay for players • Solving interesting software engineering problems • Experimenting with creating mini games.
 
-📫 **Contact:** kstep854@gmail.com
+📫 **Contact:** member.ck523@gmail.com
 
 
 Enjoy this little GIF 💖
